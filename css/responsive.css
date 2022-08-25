@@ -1,0 +1,66 @@
+@media (max-width: 1199px) {
+}
+@media (max-width: 991px) {
+  .top-bar { display: none; }
+}
+@media (max-width: 768px) {
+}
+@media (max-width: 576px) {
+  .subscribe-form { position: inherit; right: 0px; margin: 8px; }
+  footer { margin-top: 35px; }
+  .navbar-brand img { width: 100px; height: 45px; }
+  .navbar { padding: 0px; }
+  .title h5 { font-size: 13px; }
+  .carousel-caption {max-width: 216px;height: 143px;top: 12px;right: 16px;opacity: 0.8;}
+  .carousel-caption h5 { padding: 0px; font-size: 15px; }
+  .carousel-caption p { max-width: 425px; margin: 10px 0px; font-size: 12px; }
+  .carousel-item img { height: 245px; }
+  #owl-demo .item img { display: block; width: 55%; height: auto; margin: auto; }
+  .heading h1 {font-size: 24px;}
+  .member { padding-bottom: 35px; }
+  .social-image-part ul li:last-child { margin-left: 0px; margin-top: 75px; }
+  .social-image-part {margin-bottom: 0px;margin-left: 0;}
+  .social-content-part h5 { padding: 0px 0px 35px; }
+  .social-content-part { margin-top: 35px; }
+  .social-content-part ul { display: inline-block; }
+  .social-content-part ul li { margin-right: 0px; }
+  .social-section { padding-bottom: 45px; }
+  .item-card { margin: 0px 20px 30px; }
+  .view-button { margin-top: 10px; }
+  .text-lite { font-size: 15px; }
+  .testimonial .description { text-align: justify; margin: 20px; }
+  .mission-photos { text-align: center; }
+  .about-content { padding-bottom: 35px; }
+  .about-content h1 {font-size: 24px;text-align: center;}
+  .about-content p {text-align: justify;padding-bottom: 32px;margin: 0 20px;}
+  .news marquee { vertical-align: middle; }
+  .mission-contents {
+    margin: 0 20px;
+}
+.member img {
+    max-width: 50%;
+}
+.social-image-part ul {
+    justify-content: center;
+}
+.learn-more ul li a {
+    margin-top: 25px;
+}
+.enroll-button a {
+    padding: 10px 30px;
+}
+.item h5 {
+    font-size: 16px;
+}
+.view-button a {
+    background: #317928;
+    color: #fff;
+    padding: 10px 30px;
+}
+.footer-logo img{
+    max-width: 80%;
+}
+.subscribe-form form input[type="email"] {
+    max-width: 50%;
+}
+}
